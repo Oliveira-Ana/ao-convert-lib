@@ -1,0 +1,21 @@
+{
+  "name": "ao-convert-lib",
+  "version": "1.0.0",
+  "description": "Conversor de ALgarismos Romanos em Algarismos Arabicos",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ao-convert-lib"
+  },
+  "keywords": [
+    "conversor"
+  ],
+  "author": "Ana Oliveira",
+  "license": "ISC"
+}
